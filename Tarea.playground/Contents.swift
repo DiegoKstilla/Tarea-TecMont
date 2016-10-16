@@ -17,8 +17,6 @@
  Debes de usar la interpolación de variables para realizar la impresión de cada número.
  */
 
-import UIKit
-
 for numero in 0...100 {
     if numero % 5 == 0 {
         print("\(numero) Bingo!!!")
